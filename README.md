@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Christian Barbosa</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate Full-Stack developer from Colombia</h3>
 
 - 🔭 I’m currently working as QA Automation Engineer at Klimb
 
 - 🌱 I’m currently learning **Turso**
 
-- 👯 I’m looking to collaborate on **Front End projects**
+- 👯 I’m looking to collaborate on **Full Stack projects**
 
-- 💬 Ask me about **Next.js, React.js, Python, FastAPI**
+- 💬 Ask me about **Next.js, React.js, Python, FastAPI, Flask**
 
 - 📫 How to reach me **christianjbarbosab@gmail.com**
 
